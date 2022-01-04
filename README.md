@@ -1,4 +1,4 @@
-# oscapp.io
+# osbapp
 
 ## Description
 An opensource budgeting application built on React 17.
