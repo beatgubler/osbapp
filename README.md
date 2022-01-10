@@ -12,8 +12,7 @@ Feel free to leave your suggestions, problems, safety concerns or questions in t
 * responsive design (mobile first)
 * local storage
 
-#### Livepreview: [https://beatgubler.github.io/osbapp/](https://beatgubler.github.io/osbapp/)
-Now optimized for React 17!
+#### Livepreview: [https://osbapp.gubler-it.com](https://osbapp.gubler-it.com)
 
 ![oscapp.io [Preview]](https://i.imgur.com/5aglXqM.png)
 
