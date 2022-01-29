@@ -14,7 +14,7 @@ Feel free to leave your suggestions, problems, safety concerns or questions in t
 
 #### Livepreview: [https://osbapp.gubler-it.com](https://osbapp.gubler-it.com)
 
-![oscapp.io [Preview]](https://i.imgur.com/5aglXqM.png)
+![osbapp [Preview]](https://i.imgur.com/TomGIOH.png)
 
 ## Installation
 * Install NodeJS -> https://nodejs.org/en/download/
@@ -23,7 +23,8 @@ Feel free to leave your suggestions, problems, safety concerns or questions in t
 
 
 ## Notable external dependencies
-* 
+* recharts - https://www.npmjs.com/package/recharts
+* Material UI - https://mui.com/getting-started/installation/
 
 
 ## Known issues/concerns
